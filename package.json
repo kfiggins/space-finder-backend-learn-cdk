@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kfiggins/space-finder-backend-learn-cdk#readme",
   "devDependencies": {
+    "@types/node": "^18.11.12",
     "aws-cdk": "^2.54.0",
     "aws-cdk-lib": "^2.54.0",
     "constructs": "^10.1.183",
